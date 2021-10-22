@@ -38,7 +38,7 @@
 						<workerType>MICRO</workerType>
 						<objectStoreV2>true</objectStoreV2>
 						<properties>
-							<key>value</key>
+							<http.port>8081</http.port>
 						</properties>
 					</cloudHubDeployment>
 				</configuration>
